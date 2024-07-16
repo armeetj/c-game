@@ -1,19 +1,31 @@
 # Slyce
 
+A fully functional multiplayer game and low level game/physicsl engine written in C and SDL2 and compiled to the browser with Emscripten.
 
-A low level game engine written in C and SDL2. Compiled to browser with Emscripten.
+This repository contains...
+1. the core game/physics engine in `/game/library`
+2. the game, SLYCE in `/game`
+3. physics demos in `/demos`
 
 ## Table of Contents
 - [Slyce](#slyce)
   - [Table of Contents](#table-of-contents)
-  - [Demos](#demos)
+  - [Game Demo](#game-demo)
+  - [Game/Physics Demos](#gamephysics-demos)
   - [File Structure](#file-structure)
   - [Documentation](#documentation)
   - [Build](#build)
     - [Prerequisites](#prerequisites)
     - [Steps](#steps)
 
-## Demos
+## Game Demo
+
+https://github.com/user-attachments/assets/851a541b-4b74-4bd2-af0e-5b727c7a369e
+
+Also available at
+https://www.youtube.com/watch?v=8B1DQi7yPfE
+
+## Game/Physics Demos
 
 https://github.com/user-attachments/assets/aa94d6c7-b234-4364-ba45-c35ad94f59cd
 
