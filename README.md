@@ -3,7 +3,7 @@
 A fully functional multiplayer game and low level game/physicsl engine written in C and SDL2 and compiled to the browser with Emscripten.
 
 This repository contains...
-1. the core game/physics engine in `/game/library`
+1. the core game/physics engine in `/game/library` and documentation see _Table of Contents_
 2. the game, SLYCE in `/game`
 3. physics demos in `/demos`
 
