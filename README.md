@@ -2,6 +2,20 @@
 
 ## Demos
 
+https://github.com/user-attachments/assets/aa94d6c7-b234-4364-ba45-c35ad94f59cd
+
+https://github.com/user-attachments/assets/334fcb4f-7d08-4e13-8266-72c8fd0815aa
+
+https://github.com/user-attachments/assets/63fa7255-9c5b-444b-9d9d-a766f0370e24
+
+https://github.com/user-attachments/assets/099a373e-39a0-423f-a986-c527e0cd15c1
+
+https://github.com/user-attachments/assets/349af66a-2a09-49db-b11b-013e9387c122
+
+https://github.com/user-attachments/assets/d80159d4-cc54-4c8d-82b8-24817647b377
+
+https://github.com/user-attachments/assets/8b2a10d4-c658-43a3-9ed6-d3af126c627a
+
 ## File Structure
 - **game**: Contains the final product, the game, SLYCE.
   - **game/assets**: Game assets, audio, images, fonts, etc.
