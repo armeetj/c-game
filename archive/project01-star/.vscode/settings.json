@@ -1,0 +1,23 @@
+{
+    // Easier to go through VsDevCmd than to hack PATH
+    "terminal.integrated.shell.windows": "cmd.exe",
+    "terminal.integrated.env.windows": {
+        "VsDevCmd": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\Build\\vcvars64.bat\""
+    },
+    "terminal.integrated.shellArgs.windows": [
+        "/k",
+        "%VsDevCmd%",
+        "&&",
+        // CMD _sucks_, drop into PS immediately
+        "powershell.exe"
+    ],
+    "files.associations": {
+        "vec_list.h": "c",
+        "stdlib.h": "c",
+        "vector.h": "c",
+        "test_util.h": "c",
+        "math.h": "c",
+        "stdio.h": "c",
+        "limits": "c"
+    },
+}

@@ -1,0 +1,6 @@
+vec_list:
+    script: "/testers/cs3/project01/vec_list/test"
+vector:
+    script: "/testers/cs3/project01/vector/test"
+polygon:
+    script: "/testers/cs3/project01/polygon/test"

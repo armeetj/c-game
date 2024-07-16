@@ -1,0 +1,6 @@
+# Windows compilation files
+*.exe
+*.exp
+*.lib
+*.obj
+*.pdb

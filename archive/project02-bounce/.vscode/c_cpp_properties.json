@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        // Default to clang for other systems
+        {
+            "name": "Mac",
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/Cellar",
+                "/opt/homebrew/include",
+                "/usr/local/include"
+            ]
+        },
+        {
+            "name": "Linux",
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/include"
+            ]
+        }
+    ],
+    "version": 4
+}
