@@ -1,4 +1,4 @@
-# Slyce
+# Slyce Game/Physics Engine
 
 A fully functional multiplayer game and low level game/physicsl engine written in C and SDL2 and compiled to the browser with Emscripten.
 
