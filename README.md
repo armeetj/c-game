@@ -1,6 +1,17 @@
 # Slyce
 
+
 A low level game engine written in C and SDL2. Compiled to browser with Emscripten.
+
+## Table of Contents
+- [Slyce](#slyce)
+  - [Table of Contents](#table-of-contents)
+  - [Demos](#demos)
+  - [File Structure](#file-structure)
+  - [Documentation](#documentation)
+  - [Build](#build)
+    - [Prerequisites](#prerequisites)
+    - [Steps](#steps)
 
 ## Demos
 
