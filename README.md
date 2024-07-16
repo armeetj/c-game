@@ -7,23 +7,23 @@ This repository contains...
 2. the game, SLYCE in `/game`
 3. physics demos in `/demos`
 
-## Table of Contents
-- [Slyce](#slyce)
-  - [Table of Contents](#table-of-contents)
-  - [Game Demo](#game-demo)
-  - [Game/Physics Demos](#gamephysics-demos)
-  - [File Structure](#file-structure)
-  - [Documentation](#documentation)
-  - [Build](#build)
-    - [Prerequisites](#prerequisites)
-    - [Steps](#steps)
-
 ## Game Demo
 
 https://github.com/user-attachments/assets/851a541b-4b74-4bd2-af0e-5b727c7a369e
 
 Also available at
 https://www.youtube.com/watch?v=8B1DQi7yPfE
+
+## Table of Contents
+- [Slyce](#slyce)
+  - [Game Demo](#game-demo)
+  - [Table of Contents](#table-of-contents)
+  - [Game/Physics Demos](#gamephysics-demos)
+  - [File Structure](#file-structure)
+  - [Documentation](#documentation)
+  - [Build](#build)
+    - [Prerequisites](#prerequisites)
+    - [Steps](#steps)
 
 ## Game/Physics Demos
 
