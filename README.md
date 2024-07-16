@@ -55,8 +55,6 @@ https://github.com/user-attachments/assets/8b2a10d4-c658-43a3-9ed6-d3af126c627a
 ## Documentation
 The library is directly documented in the source code. The following summaries are LLM generated and give an overview of each module of the full library.
 
-### Documentation
-
 #### `aux.c`
 
 This module handles auxiliary data structures and operations. It manages lists of constants and bodies used throughout the simulation.
