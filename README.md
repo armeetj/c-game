@@ -435,14 +435,16 @@ source ./emsdk_env.sh
     ```bash
     git clone <link>
     ```
-1. Change directory
+3. Change directory
    ```bash
    cd game-engine/slyce
     ```
-1. Run build command
+4. Run build command
    ```bash
-   make
+   make NO_ASAN=true all
     ```
+  ASAN is a debugging tool and not needed in the final product. <br/>
+  If you forget to include the NO_ASAN flag, performance will suffer and demos will stutter.
 5. Open game in browser. Choose fullscreen mode (show cursor).
    ```bash
    http://localhost:8000/bin/slyce.html
