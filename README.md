@@ -1,7 +1,7 @@
 # Slyce Game/Physics Engine
 
 A fully functional multiplayer game and low level game/physicsl engine written in C and SDL2 and compiled to the browser with Emscripten.
-Play the game here! (render/SLYCE)[https://slyce.onrender.com/bin/slyce.html]
+Play the game here! [render/SLYCE)](https://slyce.onrender.com/bin/slyce.html)
 
 This repository contains...
 1. the core game/physics engine in `/game/library` and documentation see _Table of Contents_
